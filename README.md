@@ -1,3 +1,5 @@
 # Artdesk-Setup
 Experience this dream setup for an artist.
-https://www.tinkercad.com/things/kyxxjlXqq2x-ingenious-kasi-fulffy/edit
+
+![image](https://github.com/user-attachments/assets/bdcad479-6df1-47b0-8cea-6a6721c5c944)
+
